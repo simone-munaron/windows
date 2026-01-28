@@ -1,0 +1,3 @@
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\PasswordLess\Device
+
+imposto a 0 DevicePasswordLessBuildVersion
